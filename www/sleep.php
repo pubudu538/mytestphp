@@ -2,7 +2,7 @@
 // current time
 echo date('h:i:s') . "\n";
 
-// sleep for 30 seconds
+// sleep for 15 seconds
 sleep(15);
 
 // wake up !
